@@ -6,7 +6,7 @@ const createRouter = (router: express.Router) => {
   })
 
   router.get('/', (_: express.Request, res: express.Response) => {
-    return res.send('OK')
+    return res.send('OK v2')
   })
 
   return router
