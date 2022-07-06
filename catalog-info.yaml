@@ -9,4 +9,4 @@ spec:
   type: service
   lifecycle: production
   owner: user:guest
-  tier: '1'
+  tier: '2'
